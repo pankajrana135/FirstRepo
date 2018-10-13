@@ -1,1 +1,7 @@
 This is my first file using git
+
+Change in file.
+
+another change
+
+changed for soft commint
